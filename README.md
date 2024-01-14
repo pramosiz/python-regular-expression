@@ -1,5 +1,3 @@
-# README for regex.py
-
 This Python script, `regex.py`, demonstrates the use of regular expressions (regex) in Python using the `re` module. It includes several examples of different regex patterns and how they match strings.
 
 Here's a brief overview of the examples:
